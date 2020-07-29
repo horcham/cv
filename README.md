@@ -1,1 +1,2 @@
-[CV.pdf](http://github.com/horcham/cv.github.io/CV.pdf)
+[CV.pdf](https://horcham.github.io/cv/CV.pdf)
+
